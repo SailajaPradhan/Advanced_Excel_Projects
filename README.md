@@ -1,5 +1,5 @@
 # Advanced_Excel_Projects
-This repository holds projects demonstrating my advanced Excel skills. (PivotTables, Power Query, Power Pivot, DAX, Dashboard, XLookup, VLookup)
+This repository holds projects demonstrating my advanced Excel skills. (PivotTables, Power Query, Power Pivot, DAX, Dashboard, XLOOKUP, VLOOKUP)
 
 # Project 1. Hospital ER Dashboard & Analysis:
 Aims to build interactive dashboard in Microsoft Excel to track total patients and analyze patient distribution by age group, gender and department.
@@ -30,7 +30,7 @@ This project focuses on data preparation, advanced lookup formulas, conditional 
 <li> DAX and Excel formulas
 
 ### Excel Tools:
-<li> XLookup
+<li> XLOOKUP
 <li> Index Match
 <li> Power Query
 <li> Power Pivot
@@ -41,3 +41,16 @@ This project focuses on data preparation, advanced lookup formulas, conditional 
 
 # Project 3. Excel Advanced Function:
 This project demonstrates expertise in advanced formulas and functions such as XLOOKUP, INDEX-MATCH, nested IF, SUMIFS, COUNTIFS, and IFERROR; PivotTables and PivotCharts; Power Query (ETL); Power Pivot; data modeling; and dashboard automation. Covers KPI reporting, trend analysis, interactive dashboards, slicers, timelines, conditional formatting, and business reporting.
+
+### Excel Tools:
+<li> XLOOKUP and VLOOKUP
+<li> INDEX-MATCH and XMATCH
+<li> Power Query
+<li> Power Pivot
+<li> PivotTables PivotCharts and Data Modeling
+<li> DAX and Excel formulas
+<li> Dynamic Array Functions
+<li> Macros and VBA Automation
+
+
+
